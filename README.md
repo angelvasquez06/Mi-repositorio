@@ -1,12 +1,15 @@
-# RepasoProg
+# Tangram
 
-## Objetivo
+## Objetivo.
 
-Repasar la progrmación estructurada
+Aplicar la programación orientada a objetos.
 
 ## Enunciado
 
-Implementar el [juego de la vida de Conway](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+Implementar el juego de Tangram mediante el uso de clases.
 
 
 ## Soluciones: 
+
+Juego de tangram desarrollado con Javascript, usando Html para ejecutar el programa en el contexto web. 
+No se hace uso de las plantillas otorgadas por el profesor, se desarrolla de manera autónoma con clases propias y definidas dentro del código.
